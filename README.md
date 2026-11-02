@@ -21,7 +21,8 @@
 
 ## 🎥 Démo Vidéo du Projet
 
-👉 **[Cliquez ici pour visionner la démonstration vidéo complète du système en action (Google Drive)]([COLLE_TON_LIEN_GOOGLE_DRIVE_ICI](https://drive.google.com/file/d/1gjcQezAZSlfVJrsci0NO1CoV_KhyTbQG/view?usp=sharing))**
+👉 **[Cliquez ici pour visionner la démonstration vidéo complète du système en action (Google Drive)]
+((https://drive.google.com/file/d/1gjcQezAZSlfVJrsci0NO1CoV_KhyTbQG/view?usp=sharing))**
 
 ---
 
