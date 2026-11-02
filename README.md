@@ -30,4 +30,3 @@
 `Siemens TIA Portal (S7-1200)` | `NetToPLCSIM` | `Siemens WinCC` | `Node-RED Dashboard` | `Telegram Bot API` | `Industrial IoT`
 
 ---
-> ℹ️ *Note : Ce dépôt présente l'architecture et la conception du projet. Les fichiers sources (TIA Portal / Node-RED) sont confidentiels et disponibles sur demande.*
